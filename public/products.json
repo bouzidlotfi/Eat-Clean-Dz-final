@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": [
+            "images/product1.jpg",
+            "images/product1-1.jpg",
+            "images/product1-2.jpg",
+            "images/product1-3.jpg",
+            "images/product1-4.jpg",
+            "images/product1-5.jpg"
+        ],
+        "nom": "Algerian Deglet Noor dates covered with Belgium dark chocolat",
+        "ingredient": "Stuffed with 6 diffrent fillings : Almond & lemon cream, Hazelnut butter,\n Pistachios butter,\n Dark chocolat & orange blossom ganache,\n Peanuts butter & fleur de sel,\n Walnuts and coconut cream with cardamom.",
+        "freeof": "Added sugar Gluten & lactose Artificial flavors",
+        "allergens": "Coconut, nuts.",
+        "facts": "Serving size : 100 g ( around 13 dates ), Calories  = 480 kcal, Carbs 83g, Dietary fiber 8g, Fat 16g, Protein 5g"
+    },
+    {
+        "id": 2,
+        "image": [
+            "images/product2.jpg",
+            "images/product2-1.jpg",
+            "images/product2.jpg",
+            "images/product2-1.jpg"
+        ],
+        "nom": " <Mendiants>, Dark belgium chocolat with  dried seasonal fruits & nuts",
+        "ingredient": "Sugar free dark chocolat 65% (Valrhona xocoline) , orange supreme, apple, pomegranate seeds, almond, hazelnut, cashew, pistachio. Box of 230 g (around 30 pieces)",
+        "freeof": "Gluten Lactose Refined sugar",
+        "allergens": "Allergens : nuts",
+        "facts": "Nutrition facts : Serving size 100g,  Calories 522 kcal,  Carb 38g, Dietary fiber 11g, Fat 42g, Protein 7g"
+    },
+    {
+        "id": 3,
+        "image": [
+            "images/product3.jpg",
+            "images/product3-1.jpg",
+            "images/product3-2.jpg",
+            "images/product3.jpg"
+        ],
+        "nom": "<Halva>, Revisited recipe of middle eastern dessert made in three diffrent flavours hazelnut/almond/pistachio filled with nuts butters",
+        "ingredient": " Ingredients: Tahini, dried dates powder, roasted nuts, nuts butters.",
+        "freeof": "Free of : Refined sugar, Gluten, Lactose, Artificial flavors & colors, Hydrogenated fats.",
+        "allergens": "nuts, sesame seeds.",
+        "facts": "Nutrition facts : Serving size 100g, Calories 700  kcal, Carb  61g, Dietary fibers 13g, Fat   48g, Protein   19g, Calcium 426mg, Potassium 468mg"
+    },
+    {
+        "id": 4,
+        "image": [
+            "images/product4.jpg",
+            "images/product4.jpg",
+            "images/product4.jpg",
+            "images/product4.jpg"
+        ],
+        "nom": "<Mantecados / Ghribia>, Arab maghreb and andelousian revisited recipe of shortbread type biscuits",
+        "ingredient": "Ingredients : whole wheat flour,\n dried dates powder, grass-fed butter, nuts butters, pistachio, almonds.",
+        "freeof": "Free of : Refined sugar, Hydrogenated fats, Artificial flavors",
+        "allergens": "Allergens : Gluten, nuts, lactose",
+        "facts": "Nutrition facts :Serving size (100g), Calories 460 kcal, Carb 47 g, Fat 38 g, Protein  6 g, Dietary fiber 12 g"
+    },
+    {
+        "id": 5,
+        "image": [
+            "images/product5.jpg",
+            "images/product5.jpg",
+            "images/product5.jpg",
+            "images/product5.jpg"
+        ],
+        "nom": "Dates lokum Box of 250g",
+        "ingredient": " Ingrédients : Date's paste, nuts, sesame seeds, tahini, almond butter, coconut cream, spices, shredded coconut.",
+        "freeof": "Gluten, Lactose, Refined sugar, Hydrogenated fat, Artificial flavors ",
+        "allergens": "Allergens : nuts, coconut.",
+        "facts": "Nutrition facts: Calories : 350 kcal/100g, Carb 65g, Fat 10g, Protein 5g, Dietary fiber 7g"
+    }
+]

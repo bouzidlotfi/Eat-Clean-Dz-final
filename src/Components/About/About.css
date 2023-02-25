@@ -1,0 +1,51 @@
+#About{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+#AboutContent{
+    height: 85%;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+.aboutTitle{
+    font-size: 32px;
+    color: #364934;
+    text-decoration: underline 4px #364934;
+}
+#concept{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#logoPic{
+    height: 63%;
+    width: 7.5%;   
+    background-image: url(logopic21.png);
+    background-position: center;
+    margin-right:200px ;
+}
+
+.aboutCont{
+    height: 100%;
+    width: 60%;
+    /* padding-top: 30px; */
+    font-size: 20px;
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+}
+#aboutIcons{
+    width: 90%;
+    height: 60%;
+    display: flex;
+    background-image:url(Abouticon2.jpg);
+    background-position: center;
+    background-size: cover;
+}

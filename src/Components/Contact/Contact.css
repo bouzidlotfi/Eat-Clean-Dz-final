@@ -1,0 +1,121 @@
+#Contacts{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 30px;
+}
+#conContent{
+    width: 100%;
+    height: 73%;
+    border-top-right-radius: 120px;
+    display: flex;
+    justify-content: center;
+    background-color: #CADD5F;
+    margin-top: 50px;
+}
+#conTitle{
+    font-size: 32px;
+    color: #364934;
+    text-decoration: underline 4px #364934;
+}
+#conLogo{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(252, 252, 252);
+    align-items: center;
+}
+#logoContainer{
+    width: 35%;
+    height:67%;
+    background-image: url(logopic21.png);
+    background-position: center;
+}
+#follow{
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    color: #364934;
+    text-decoration: underline 4px solid #364934;
+}
+.reseau{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:18px;
+    color:#364934;
+    margin-bottom: 30px;
+}
+#socialMedia{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#emailForm{
+    display: flex;
+    align-items: center;
+    width: 40%;
+}
+#formContainer{
+    height: 80%;
+    width: 100%;
+}
+.formarea{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.formarea input{
+    width: 50%;
+    height: 70%;
+    border-radius: 5px;
+    border: none;
+    padding-left: 10px;
+    font-size: 16px;
+}
+.message{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.message textarea{
+    height: 90%;
+    width: 50%;
+    display: flex;
+    align-items: flex-start;
+    border-radius: 6px;
+    border: none;
+    padding-left: 10px;
+    font-size: 16px;
+}
+#sendBtn{
+    height: 8vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    width: 100%;
+}
+#sendBtn input{
+    width: 50%;
+    height: 70%;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    letter-spacing: 2px;
+    color: #364934;
+    border: none;
+}
+#sendBtn input:hover{
+    background-color: #364934;
+    color: white;
+    transition: .8s;
+}
