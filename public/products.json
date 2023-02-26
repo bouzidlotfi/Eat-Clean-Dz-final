@@ -19,8 +19,6 @@
         "id": 2,
         "image": [
             "images/product2.jpg",
-            "images/product2-1.jpg",
-            "images/product2.jpg",
             "images/product2-1.jpg"
         ],
         "nom": " <Mendiants>, Dark belgium chocolat with  dried seasonal fruits & nuts",
@@ -33,9 +31,8 @@
         "id": 3,
         "image": [
             "images/product3.jpg",
-            "images/product3-1.jpg",
             "images/product3-2.jpg",
-            "images/product3.jpg"
+            "images/product3-1.jpg"
         ],
         "nom": "<Halva>, Revisited recipe of middle eastern dessert made in three diffrent flavours hazelnut/almond/pistachio filled with nuts butters",
         "ingredient": " Ingredients: Tahini, dried dates powder, roasted nuts, nuts butters.",
@@ -46,9 +43,6 @@
     {
         "id": 4,
         "image": [
-            "images/product4.jpg",
-            "images/product4.jpg",
-            "images/product4.jpg",
             "images/product4.jpg"
         ],
         "nom": "<Mantecados / Ghribia>, Arab maghreb and andelousian revisited recipe of shortbread type biscuits",
@@ -59,12 +53,7 @@
     },
     {
         "id": 5,
-        "image": [
-            "images/product5.jpg",
-            "images/product5.jpg",
-            "images/product5.jpg",
-            "images/product5.jpg"
-        ],
+        "image": ["images/product5.jpg"],
         "nom": "Dates lokum Box of 250g",
         "ingredient": " Ingrédients : Date's paste, nuts, sesame seeds, tahini, almond butter, coconut cream, spices, shredded coconut.",
         "freeof": "Gluten, Lactose, Refined sugar, Hydrogenated fat, Artificial flavors ",

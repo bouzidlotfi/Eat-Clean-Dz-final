@@ -10,8 +10,6 @@
 #logo{
     width: 22%;
     height: 90%;
-    
-    /* background-color: white; */
 }
 a{
     color: #364934;
@@ -57,7 +55,6 @@ a{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    /* padding-left: 15px; */
     color:#364934;
     font-size: 30px;
     width: 100%;

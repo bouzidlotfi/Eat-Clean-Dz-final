@@ -27,13 +27,11 @@ const Details = () => {
                 {
                     image?.map((image, index) => {
                         return (
-                            // console.log(image)
                             <img key={index} src={require(`./${image}`)} />
                         )
                     })
                 }
             </div>
-            {/* <img src={require('ici tu met le chemin de limage')} alt="signification" className="" /> */}
 
             <div id='InfoDetails'>
                         <div id="InfoContent">

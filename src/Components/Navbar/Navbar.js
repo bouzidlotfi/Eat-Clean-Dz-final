@@ -6,7 +6,6 @@ function Navbar() {
   return (
     <div id='navbar'>
         <div id="logo">
-            {/* <div id='logopic'></div> */}
             <div id='name'>Eat Clean</div>
         </div>
         <div id="baritems">
